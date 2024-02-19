@@ -2,6 +2,10 @@
 <p>
 Alguno de los temas vistos:
 </p>
-- manejo de archivos
-- envio de email
-- ORM con SQLAlchemy
+
+<ul>
+  <li>manejo de archivos</li>
+  <li>envio de email</li>
+  <li>ORM con SQLAlchemy</li>
+</ul>
+
